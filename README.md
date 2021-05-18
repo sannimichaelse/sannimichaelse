@@ -9,7 +9,7 @@
 
 I am a software engineer with an eye for understanding the heart of a system. I love programming, readinf, writing and building cool stuffs.
 
-<img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/main/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
