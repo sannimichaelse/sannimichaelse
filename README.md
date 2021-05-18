@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sannimichaelse.sannimichaelse)
 
-I am a software engineer with an eye for understanding the heart of a system. I love programming, readinf, writing and building cool stuffs.
+I am a software engineer with an eye for understanding the heart of a system. I love programming, reading, writing and building cool stuffs.
 
 <img align="right" alt="GIF" src="https://github.com/sannimichaelse/sannimichaelse/blob/main/coding.gif?raw=true" width="408" height="318" />
   
