@@ -16,9 +16,8 @@ I am a software engineer with an eye for understanding the heart of a system. I 
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [hashnode](https://blog.sannimichael.com);
+- 📝 I regulary write articles on [hashnode](https://blog.softsignatureslab.com);
 - 📫 How to reach me: info@softsignatureslab.com;
-- 📝 [Resume](https://www.notion.so/Michael-Sanni-abb28b82a7b3406481edce4f462884b6).
 
 </br>
 
