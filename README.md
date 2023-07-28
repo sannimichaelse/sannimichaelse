@@ -16,26 +16,5 @@ I am a software engineer with an eye for understanding the heart of a system. I 
 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [hashnode](https://blog.softsignatureslab.com);
+- 📝 I regularly write articles on [sannimichael.com](https://sannimichael.com) and [dailyk8s.com](https://dailyk8s.com);
 - 📫 How to reach me: info@softsignatureslab.com;
-
-</br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sannimichaelse&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannimichaelse&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
-
-
