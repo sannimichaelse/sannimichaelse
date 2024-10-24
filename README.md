@@ -17,4 +17,4 @@ I am a software engineer with an eye for understanding the heart of a system. I 
 - 👨🏻‍💻 I’m currently working on something cool;
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regularly write articles on [tomiwatech.com](https://tomiwatech.com) and [dailyk8s.com](https://dailyk8s.com);
-- 📫 How to reach me: info@softsignatureslab.com;
+- 📫 How to reach me: tomiwatech@gmail.com;
